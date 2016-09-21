@@ -7,7 +7,7 @@ hand](https://wiki.jenkins-ci.org/display/JENKINS/Plugins#Plugins-Byhand)"
 The names of the plugins can be found on the [update
 site](http://updates.jenkins-ci.org/download/plugins)
 
-include jenkins will do installatin of jenkins
+jenkins module will do installatin of jenkins
 
 class jenkins::deleteplugin will do deletion of plugins
 
